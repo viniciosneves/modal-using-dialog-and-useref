@@ -1,0 +1,13 @@
+.dialog {
+    border-radius: 8px;
+    padding: 0;
+}
+
+.dialog::backdrop {
+    background: #000;
+    opacity: 0.8;
+}
+
+.wrapper {
+    padding: 16px;
+}
